@@ -1,4 +1,4 @@
-# 3rd Task: VLAN Configuration Screenshots
+# 3rd Task: VLAN Configuration Task
 
 Step-by-step screenshot log for the Cisco Packet Tracer VLAN task (`3rd Topo.pkt`). Each step lists what the screenshot shows. Steps 07 to 12 were captured after the ping test, but they are ordered here in the logical configuration sequence.
 
