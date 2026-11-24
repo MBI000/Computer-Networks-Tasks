@@ -1,4 +1,4 @@
-# 4th Task – Inter-VLAN-style Routing with a Centralized DHCP Server and DHCP Relay (Cisco Packet Tracer)
+# 4th Task: DHCPv4 Configuration
 
 ## Objective
 Build a small two-LAN network in Cisco Packet Tracer where **one DHCP server (Server0) on LAN1 hands out addresses to clients on LAN2** across a router. This is done with a **DHCP relay agent** (`ip helper-address`) configured on the router.
